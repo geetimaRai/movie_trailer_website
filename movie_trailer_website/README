@@ -1,0 +1,9 @@
+The movie_trailer_website is a project to display a list of movies with the
+ability to view movie traileron a single click.
+
+To run the project from the command line:
+$cd <directory_containing_the_project_folder>
+$python movies_list.py
+
+To run the project from the IDE:
+Right click on movies_list.py and select Run.
